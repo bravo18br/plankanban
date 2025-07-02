@@ -1,8 +1,3 @@
-Claro, Maria! Aqui está um `README.md` limpo, organizado e pronto para colar no seu repositório ou enviar para a equipe:
-
----
-
-````markdown
 # 📌 Kanban Interno com Planka via Docker
 
 Este projeto disponibiliza um sistema Kanban estilo Trello, utilizando o [Planka](https://github.com/plankanban/planka), rodando via Docker e conectado a um banco PostgreSQL com suporte a vetores (`pgvector`).
@@ -104,8 +99,3 @@ Ou, se já criada por outro serviço, apenas garanta que ambos os containers est
 Este projeto segue a licença [MIT](https://opensource.org/licenses/MIT). O Planka é um software open source mantido pela comunidade.
 
 ---
-
-```
-
-Se quiser, posso incluir um `docker-compose.yml` completo também no README. Deseja isso?
-```
